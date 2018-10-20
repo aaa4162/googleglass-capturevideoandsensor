@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video</string>
+    <string name="title_activity_main">GlassVIdeo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="say_hello_world">#Glassware#</string>
+    <string name="glass_voice_prompt">Say Glassware Template to trigger the glassware</string>
+    <string name="stop">STOP</string>
+    <string name="tts">TTS</string>
+    <string name="asr">ASR</string>
+    <string name="sensor">传感器</string>
+    <string name="logon">开始采集</string>
+    <string name="accelerometer">加速度传感器</string>
+    <string name="gravity">重力传感器</string>
+    <string name="gyroscope">陀螺仪</string>
+    <string name="light">光传感器</string>
+    <string name="linearacceleration">线性加速度传感器</string>
+    <string name="magneticfield">磁场传感器</string>
+    <string name="orientation">方向传感器</string>
+    <string name="rotationvector">旋转矢量传感器</string>
+
+    <string name="customvideocapture">录像</string>
+    <string name="stoprecording">停止录像</string>
+    <string name="startrecording">开始录像</string>
+
+    <string name="APKDataBasePath">/data/data/example.lichong.GlassUIElements/databases/</string>
+</resources>
